@@ -99,21 +99,11 @@ key_PM_ShieldToggle:38
 key_zume.zoom:26
 key_zume.zoom_in:13
 key_zume.zoom_out:12
-key_key.anextratouch.free_look:56
 key_key.dss.activate.desc:45
 key_key.dss.next.desc:15
 key_key.dss.skills_gui.desc:24
-key_Glider Toggle:34
-key_Sound Locator:38
-key_Night Vision:25
-key_Goggles of Revealing:19
-key_Step Assist:0
-key_Speed:0
-key_Jump:0
-key_Yeta Wrench Mode:21
-key_Toggle Electromagnet:0
 key_key.portaitreposition:52
-soundCategory_master:1.0
+soundCategory_master:0.0397351
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
