@@ -1,6 +1,6 @@
 invertYMouse:false
 mouseSensitivity:0.5
-fov:1.0
+fov:0.0
 gamma:0.0
 saturation:0.0
 renderDistance:16
@@ -103,8 +103,8 @@ key_key.dss.activate.desc:45
 key_key.dss.next.desc:15
 key_key.dss.skills_gui.desc:24
 key_key.portaitreposition:52
-soundCategory_master:0.0397351
-soundCategory_music:1.0
+soundCategory_master:0.23178808
+soundCategory_music:0.13380282
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
