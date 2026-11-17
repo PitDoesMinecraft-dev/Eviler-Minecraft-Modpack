@@ -25,7 +25,7 @@ chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
 fullscreen:false
-enableVsync:true
+enableVsync:false
 hideServerAddress:false
 advancedItemTooltips:true
 pauseOnLostFocus:true
@@ -140,6 +140,9 @@ key_key_ironbackpacks_equipbackpack:48
 key_MoCreatures Dive/Fly Down:33
 key_PM_ParticleMode:37
 key_PM_ShieldToggle:38
+key_zume.zoom:44
+key_zume.zoom_in:13
+key_zume.zoom_out:12
 key_key.dss.activate.desc:45
 key_key.dss.next.desc:15
 key_key.dss.skills_gui.desc:25
@@ -166,8 +169,8 @@ key_key.speed.decrease:24
 key_key.fastBlockPlacing.desc:0
 key_nei.options.keys.gui.xu_ping:20
 key_key.portaitreposition:52
-soundCategory_master:0.0
-soundCategory_music:0.0
+soundCategory_master:1.0
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

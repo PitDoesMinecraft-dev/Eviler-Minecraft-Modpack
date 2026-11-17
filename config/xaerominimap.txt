@@ -57,7 +57,7 @@ showFlowers:true
 keepWaypointNames:false
 waypointsDistanceExp:0
 waypointsDistanceMin:0.0
-waypointTPCommand:/tp
+waypointTPCommand:/kill
 arrowScale:1.5
 arrowColour:0
 smoothDots:true
