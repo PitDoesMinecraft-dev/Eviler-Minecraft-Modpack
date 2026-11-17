@@ -65,7 +65,7 @@ move.speed.user:false;c:true
 move.speed.user.factor:0.2
 
 # The exponent for in-game speed manipulation
-move.speed.user.exponent:8
+move.speed.user.exponent:0
 
 
 
@@ -1047,7 +1047,7 @@ move.config.survival.keys.default:m
 move.config.creative.keys:c
 
 # The option configuration to start the next minecraft creative game with (can also be modified via in-game option configuration toggling)
-move.config.creative.keys.default:disabled
+move.config.creative.keys.default:c
 
 
 # A list of adventure option configuration keys, entries seperated by ','

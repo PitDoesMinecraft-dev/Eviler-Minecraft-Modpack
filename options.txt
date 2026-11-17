@@ -3,11 +3,11 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:0.0
 saturation:0.0
-renderDistance:13
+renderDistance:16
 guiScale:0
 particles:0
 bobView:true
-anaglyph3d:0.0
+anaglyph3d:false
 advancedOpengl:false
 maxFps:260
 fboEnable:true
@@ -128,21 +128,25 @@ key_nei.options.keys.world.creative:0
 key_nei.options.keys.copy.name:46
 key_nei.options.keys.copy.oredict:32
 key_nei.options.keys.copy.identifier:45
-key_Draw Weapons:34
-key_Special:0
+key_Draw Weapons:19
+key_Special:44
 key_key.betterquesting.quests:41
-key_key.party:0
-key_key.next:0
-key_key.prev:0
+key_key.party:33
+key_key.next:45
+key_key.prev:46
+key_cos.key.openCosArmorInventory:46
 key_key.openCompendium:25
 key_key_ironbackpacks_openbackpack:19
 key_key_ironbackpacks_equipbackpack:48
 key_MoCreatures Dive/Fly Down:33
 key_PM_ParticleMode:37
 key_PM_ShieldToggle:38
-key_zume.zoom:44
-key_zume.zoom_in:13
-key_zume.zoom_out:12
+key_iris.keybind.reload:0
+key_iris.keybind.toggleShaders:0
+key_iris.keybind.shaderPackSelection:0
+key_angelica.keybind.zoom:0
+key_angelica.keybind.fps_reducer_force:0
+key_angelica.keybind.fps_reducer_disable:0
 key_key.dss.activate.desc:45
 key_key.dss.next.desc:15
 key_key.dss.skills_gui.desc:25
@@ -160,12 +164,12 @@ key_key.mw_teleport:52
 key_key.mw_zoom_in:201
 key_key.mw_zoom_out:209
 key_key.mw_underground_mode:22
-key_key.fart.desc:0
+key_key.fart.desc:33
 key_key.nutrition:0
 key_key.climb:29
-key_key.config.toggle:219
-key_key.speed.increase:23
-key_key.speed.decrease:24
+key_key.config.toggle:67
+key_key.speed.increase:24
+key_key.speed.decrease:23
 key_key.fastBlockPlacing.desc:0
 key_nei.options.keys.gui.xu_ping:20
 key_key.portaitreposition:52
