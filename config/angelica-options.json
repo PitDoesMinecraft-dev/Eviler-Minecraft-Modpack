@@ -1,12 +1,12 @@
 {
   "quality": {
     "biome_blend_radius": 3,
-    "biome_blend_mode": "FANCY",
+    "biome_blend_mode": "FAST",
     "grass_quality": "DEFAULT",
     "use_celeritas_smooth_lighting": true,
     "texture_filter_mode": "NONE",
     "texel_sampling": "NEAREST",
-    "mipmap_generation": "MODERN_VANILLA",
+    "mipmap_generation": "VANILLA_1_7_10",
     "gui_block_supersampling": 1
   },
   "advanced": {

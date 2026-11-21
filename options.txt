@@ -3,15 +3,15 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:0.0
 saturation:0.0
-renderDistance:16
+renderDistance:12
 guiScale:0
 particles:0
 bobView:true
-anaglyph3d:false
+anaglyph3d:0.0
 advancedOpengl:false
 maxFps:260
 fboEnable:true
-difficulty:3
+difficulty:1
 fancyGraphics:true
 ao:1
 clouds:false
@@ -72,7 +72,7 @@ key_key.togglePerspective:63
 key_key.smoothCamera:0
 key_key.sprint:29
 key_key.streamStartStop:64
-key_key.streamPauseUnpause:0
+key_key.streamPauseUnpause:65
 key_key.streamCommercial:0
 key_key.streamToggleMic:0
 key_key.fullscreen:87
@@ -128,25 +128,22 @@ key_nei.options.keys.world.creative:0
 key_nei.options.keys.copy.name:46
 key_nei.options.keys.copy.oredict:32
 key_nei.options.keys.copy.identifier:45
-key_Draw Weapons:19
-key_Special:44
-key_key.betterquesting.quests:41
+key_Draw Weapons:34
+key_Special:0
+key_key.betterquesting.quests:27
 key_key.party:33
 key_key.next:45
 key_key.prev:46
 key_cos.key.openCosArmorInventory:46
-key_key.openCompendium:25
+key_key.openCompendium:0
 key_key_ironbackpacks_openbackpack:19
 key_key_ironbackpacks_equipbackpack:48
 key_MoCreatures Dive/Fly Down:33
 key_PM_ParticleMode:37
 key_PM_ShieldToggle:38
-key_iris.keybind.reload:0
-key_iris.keybind.toggleShaders:0
-key_iris.keybind.shaderPackSelection:0
-key_angelica.keybind.zoom:0
-key_angelica.keybind.fps_reducer_force:0
-key_angelica.keybind.fps_reducer_disable:0
+key_zume.zoom:44
+key_zume.zoom_in:13
+key_zume.zoom_out:12
 key_key.dss.activate.desc:45
 key_key.dss.next.desc:15
 key_key.dss.skills_gui.desc:25
@@ -170,6 +167,10 @@ key_key.climb:29
 key_key.config.toggle:67
 key_key.speed.increase:24
 key_key.speed.decrease:23
+key_Special Use:19
+key_Open Amulet Gui:21
+key_key.cofh.empower:0
+key_key.cofh.multimode:0
 key_key.fastBlockPlacing.desc:0
 key_nei.options.keys.gui.xu_ping:20
 key_key.portaitreposition:52
