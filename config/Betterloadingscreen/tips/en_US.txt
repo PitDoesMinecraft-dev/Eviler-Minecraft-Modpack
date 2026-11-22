@@ -1,0 +1,14 @@
+#Tips for the loading screen
+#Thanks to 0lafe, boubou19, chochem, interestingusernam3, glowredman, GTNH-Afx237v7, leagris, Lewissaber, Nvidiot, Regian24, richardhendricks, yukieiji and others for tip suggestions
+#
+#Maximal characters for a tip: 77 (more can go out of the screen)
+#The line below, including the "#" are 77 chars
+#Adventurer's backpack? Did you mean integrated crafting grid, bed and fluid
+#
+Press ] to show your current quests!
+Don't forget to upgrade your sword skills!
+Deserts drain your thirst faster than normal!
+Tamed Creeper Minions no longer gets attacked by iron golems and no longer despawns on peaceful!
+Mobs from Chocolate Quest(Better dungeons) are unable to become infernal!
+Spiders and Pigmen are always aggressive if with any modifier(rare)!
+Use Iron chests, backpacks, and furnaces for needed improvements!

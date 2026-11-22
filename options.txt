@@ -162,7 +162,6 @@ key_key.mw_zoom_in:201
 key_key.mw_zoom_out:209
 key_key.mw_underground_mode:22
 key_key.fart.desc:33
-key_key.nutrition:0
 key_key.climb:29
 key_key.config.toggle:67
 key_key.speed.increase:24
@@ -172,10 +171,8 @@ key_Open Amulet Gui:21
 key_key.cofh.empower:0
 key_key.cofh.multimode:0
 key_key.fastBlockPlacing.desc:0
-key_nei.options.keys.gui.xu_ping:20
-key_key.portaitreposition:52
-soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_master:0.0
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
@@ -183,3 +180,4 @@ soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0
+key_nei.options.keys.gui.xu_ping:20
