@@ -1,0 +1,2 @@
+mods.extraUtils.QED.addShapedRecipe(<ExtraUtilities:decorativeBlock1:1> * 8, [[null, <minecraft:obsidian>, null], [<minecraft:obsidian>, <minecraft:ender_pearl>, <minecraft:obsidian>], [null, <minecraft:obsidian>, null]]);
+mods.extraUtils.QED.addShapedRecipe(<chocolateQuest:kingArmor>, [[<fakeores:fd_rainbow_ingot>, null, <fakeores:fd_rainbow_ingot>], [<fakeores:fd_rainbow_ingot>, <fakeores:fd_rainbow_ingot>, <fakeores:fd_rainbow_ingot>], [<fakeores:fd_rainbow_ingot>, <fakeores:fd_rainbow_ingot>, <fakeores:fd_rainbow_ingot>]]);

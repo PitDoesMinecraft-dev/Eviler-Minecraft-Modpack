@@ -10,4 +10,10 @@ corruptedJarFileScanner.bat
 backup
 shaderpacks/teashader
 shaderpacks/debug
+imgui.ini
 minetweaker.log
+usercache.json
+usernamecache.json
+XaeroWaypoints
+config/AntiIDConflict
+config/activity.json
