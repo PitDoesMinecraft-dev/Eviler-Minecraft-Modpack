@@ -12,7 +12,7 @@
         },
         "black":
         {
-            "image" : "custommainmenu:textures/gui/transparent.png",
+            "image" : "modpack_assets:textures/gui/title/transparent.png",
             "posX" : 50,
             "posY" : 0,
             "width" : 100,
@@ -71,9 +71,9 @@
         "options":
         {
             "text" : "menu.options",
-            "posX" : 53,
+            "posX" : 55,
             "posY" : -25,
-            "width" : 40,
+            "width" : 50,
             "height" : 20,
 	        "imageWidth" : 40,
             "imageHeight" : 40,
@@ -88,12 +88,12 @@
         "quit":
         {
             "text" : "menu.quit",
-            "posX" : 128,
-            "posY" : -25,
-            "width" : 40,
+            "posX" : 55,
+            "posY" : -5,
+            "width" : 50,
             "height" : 20,
-	        "imageWidth" : 300,
-            "imageHeight" : 300,
+	        "imageWidth" : 40,
+            "imageHeight" : 40,
 			 "alignment" : "bottom_left",
             "action" : 
             {
