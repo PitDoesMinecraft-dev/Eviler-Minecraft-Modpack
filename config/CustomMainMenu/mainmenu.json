@@ -25,12 +25,12 @@
     {
         "singleplayer":
         {
-            "text" : "Start Your Doom!",
+            "text" : "START YOUR DOOM!",
             "posX" : 55,
             "posY" : -33,
             "width" : 90,
             "height" : 20,
-	    "alignment" : "left_center",
+			"alignment" : "left_center",
             "action" : 
             {
                 "type" : "openGui",
@@ -72,7 +72,7 @@
         {
             "text" : "menu.options",
             "posX" : 55,
-            "posY" : -25,
+            "posY" : -55,
             "width" : 50,
             "height" : 20,
 	        "imageWidth" : 40,
@@ -89,7 +89,7 @@
         {
             "text" : "menu.quit",
             "posX" : 55,
-            "posY" : -5,
+            "posY" : -25,
             "width" : 50,
             "height" : 20,
 	        "imageWidth" : 40,
@@ -98,21 +98,6 @@
             "action" : 
             {
                 "type" : "quit"
-            }
-        },
-        
-        "language":
-        {
-            "text" : "",
-            "posX" : 198,
-            "posY" : -35,
-            "width" : 20,
-            "height" : 20,
-            "alignment" : "bottom_left",
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "languages"
             }
         }
     },
@@ -136,8 +121,8 @@
         {
 			"image" : "",
 			"slideshow": {
-             "images" : ["modpack_assets:textures/gui/title/background/title1.png", "modpack_assets:textures/gui/title/background/title2.png", "modpack_assets:textures/gui/title/background/title3.png","modpack_assets:textures/gui/title/background/title4.png","modpack_assets:textures/gui/title/background/title5.png","modpack_assets:textures/gui/title/background/title6.png","modpack_assets:textures/gui/title/background/title7.png","modpack_assets:textures/gui/title/background/title8.png","modpack_assets:textures/gui/title/background/title9.png","modpack_assets:textures/gui/title/background/title10.png"],
-			 "displayDuration" : 100,
+             "images" : ["modpack_assets:textures/gui/title/background/title1.png", "modpack_assets:textures/gui/title/background/title2.png", "modpack_assets:textures/gui/title/background/title3.png","modpack_assets:textures/gui/title/background/title4.png","modpack_assets:textures/gui/title/background/title5.png","modpack_assets:textures/gui/title/background/title6.png","modpack_assets:textures/gui/title/background/title7.png","modpack_assets:textures/gui/title/background/title8.png","modpack_assets:textures/gui/title/background/title9.png","modpack_assets:textures/gui/title/background/title10.png", "modpack_assets:textures/gui/title/background/title11.png", "modpack_assets:textures/gui/title/background/title12.png","modpack_assets:textures/gui/title/background/title13.png","modpack_assets:textures/gui/title/background/title14.png","modpack_assets:textures/gui/title/background/title15.png","modpack_assets:textures/gui/title/background/title16.png", "modpack_assets:textures/gui/title/background/title17.png"],
+			 "displayDuration" : 140,
              "fadeDuration" : 40
 			}
         }

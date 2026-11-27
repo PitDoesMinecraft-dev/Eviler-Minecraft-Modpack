@@ -1,3 +1,5 @@
+===========================================================================================================================================================================================
+
 THIS MODPACK CONTAINS A MODIFIED VERSION OF HARDCORE ENDER EXPANSION. IF YOU HAVE ANY ISSUES, PLEASE CONTACT ME AS I PROBALY WAS THAT ONE THAT BROKE SOMETHING, NOT CHYLEX.
 
 Changes made from the original:
@@ -19,13 +21,31 @@ The "YOUR DOOM" and "DERPY LIZZARD" texts was added back to be shown in the boss
 The dragon will now spawn in silverfish when fireball hits.
 
 Ender daemon structure added back(is buggy right now, my fault... Sorry). Ender apocalypse is also missing as well...
+===========================================================================================================================================================================================
 
 
-# Modification Of the Mod List
+===========================================================================================================================================================================================
+Modification Of the Mod List
+===========================================================================================================================================================================================
+
 
 If you happen to modify the modpack like remove or add mods, you may not receive support if the mods added are many, known to be buggy, or quests do not work because of removed mods. In these cases, you may be asked to revert back to the original modpack state. In any case, I will try my best to help you. I just ask that you tell me what mods you added or removed, and what configs you had to change.
 
-# Credits
+===========================================================================================================================================================================================
+Credits
+===========================================================================================================================================================================================
+
+
+===========================================================================================================================================================================================
+DISCLAIMER 
+===========================================================================================================================================================================================
+
+I have no association with any of the people mentioned here, I only used the made by these authors because I though their stuff was good, and I was allowed to use it.
+
+===========================================================================================================================================================================================
+MOD CREDITS
+===========================================================================================================================================================================================
+
 
 Hardcore Ender Expansion is made by chylex and his team(which can be seen at: https://hee.chylex.com/credits). Permission was granted from chylex(see permission_hee.png for proof) to both redistribute and modify it.
 
@@ -42,7 +62,7 @@ CakeIsALie Mod is made by Toinane is used and can be found at: https://www.curse
 
 Animals Plus is made by Click_Me and can be found at: https://www.planetminecraft.com/mod/animals---birds-fish-whales-mice-and-more/
 
-https://web.archive.org/web/20150304221741/http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1242446-faithful-64x64-14-06-14-update-more-than-870-000 for the sponge texture used in the menu backgrounds.
+HiTeeN for their faithful textures which can be found at: https://web.archive.org/web/20150304221741/http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1242446-faithful-64x64-14-06-14-update-more-than-870-000 which the sponge texture used in the menu backgrounds.
 
 
 Fake ores is made by eliferd. The 1.7.10 download no longer exists so I can't even give you it.... https://github.com/eliferd/FakeOres you have to compile from the gitHub source code yourself.... (and I guess I messed up the version system so that is why is version is messed in this modpack.)
@@ -50,9 +70,12 @@ Fake ores is made by eliferd. The 1.7.10 download no longer exists so I can't ev
 Thirst Mod is made by tarun1998 which can be found at:https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1282656-thirst-mod-1-8-15-updated-to-minecraft-1-8-100k
 
 The Chocolate Quest mod is made by Chocolatin and can be found at: https://web.archive.org/web/20170615032448/http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278075-chocolate-quest-mods-for-the-adventurers
+===========================================================================================================================================================================================
 
+===========================================================================================================================================================================================
+SOUNDS
+===========================================================================================================================================================================================
 
-I have no association with any of the people mentioned here, I only used the made by these authors because I though their stuff was good, and I was allowed to use it.
 
 The following sounds were used to replace some of Chocolate Quest's original sounds: 
 
@@ -63,7 +86,15 @@ Dragon Hit sound is a modified version of: Dogs growling.wav by juskiddink -- ht
 Monkey Hit Sound is from: Monkey noise (imitation) 3 by wilika2 -- https://freesound.org/s/588625/ -- License: Creative Commons 0
 
 
+
+
+
+===========================================================================================================================================================================================
+MUSIC
+==========================================================================================================================================================================================
+
 The following music tracks are played on the title screen of the modpack are made by the following very talented individuals:
+
 
 menu1.ogg is End City Remains – Epic Theme (Fan Made Music Disc)by Stereonyx - https://www.youtube.com/watch?v=x5igT_ERF4o
 
